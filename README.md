@@ -32,6 +32,9 @@ Curious about what languages and tools I am familiar with?
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
   </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  </a>
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
   </a>
@@ -95,9 +98,6 @@ Curious about what languages and tools I am familiar with?
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://www.ssh.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
