@@ -1,13 +1,11 @@
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">, I'm Kwame!</h1>
-
 ###  :book: About me
 
 - 🖥  I'm currently a Software Engineer @ [CGI](https://www.cgi.com/uk/en-gb).
-- 🎓 Working towards getting a BSc (Hons) Digital & Technology Solutions degree.
 ---
 ### ⬆ What am I up to?
 
 - Getting more familiar with Terraform using different registry providers 😫
+- Gaining experience on Artificial Intelligence (AI) and Machine Learning (ML) ⚙️
 - Learning Robotic Process Automation (RPA) tools 🦾
 - Reading about Intelligence Automation (IA) 🤖
 ---
