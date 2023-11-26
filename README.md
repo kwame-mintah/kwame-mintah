@@ -11,42 +11,165 @@
 - Attempting to learn Go Lang 🍼
 - Learning Robotic Process Automation (RPA) tools 🦾
 - Reading about Intelligence Automation (IA) 🤖
+- Creating [GitHub templates](https://github.com/kwame-mintah?tab=repositories&q=&type=template&language=&sort=) for various projects 📄
 
 ---
 
 ### 🗂️ Skills
+<details>
 
-#### Languages
+<summary> ❗ Expand to view my skills in JSON format ❗</summary>
 
-Bash, CSS, Cucumber, Groovy, HTML, Java, JavaScript, Markdown, Python, SQL, Terraform
+```json
+{
+  "basics": {
+    "name": "Kwame Mintah",
+    "label": "Software Engineer",
+    "profiles": [
+      {
+        "network": "Learn Microsoft",
+        "username": "kwame-mintah",
+        "url": "https://learn.microsoft.com/en-us/users/kwame-mintah/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CGI",
+      "position": "Software Engineer",
+      "url": "https://www.cgi.com/en",
+      "startDate": "2018-11-09",
+      "endDate": "..."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "HashiCorp Certified: Terraform Associate (003)",
+      "date": "2023-09-16",
+      "issuer": "HashiCorp",
+      "url": "https://www.credly.com/badges/adf68af2-8299-48c5-a023-7a239f439533/"
+    },
+    {
+      "name": "Microsoft Certified: Azure AI Engineer Associate",
+      "date": "2023-08-28",
+      "issuer": "Microsoft",
+      "url": "https://learn.microsoft.com/en-us/users/kwame-mintah/credentials/b3d5becc8bb76fcc/"
+    },
+    {
+      "name": "Microsoft Certified: Azure AI Fundamentals",
+      "date": "2023-04-01",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/4c70df7d-f975-4645-b1bf-a9292a4adaf0/"
+    },
+    {
+      "name": "AWS Certified Developer - Associate",
+      "date": "2022-06-24",
+      "issuer": "Amazon Web Services",
+      "url": "https://www.credly.com/badges/24752df3-914e-4715-a7a6-b63fd5ffbb2b/"
+    },
+    {
+      "name": "Exam 480: Programming in HTML5 with JavaScript and CSS3",
+      "date": "2020-02-08",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/24752df3-914e-4715-a7a6-b63fd5ffbb2b/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Java",
+        "Python",
+        "Terraform",
+        "Bash",
+        "SQL",
+        "JavaScript",
+        "Groovy",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": ["PostgreSQL", "OpenSearch", "MongoDB", "ElasticSearch"]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Spring boot",
+        "Serverless",
+        "FastAPI",
+        "React.js",
+        "Next.js"
+      ]
+    },
+    {
+      "name": "Authentication",
+      "keywords": ["OAuth 2.0", "Role Based Access Control (RBAC)"]
+    },
+    {
+      "name": "Web Services",
+      "keywords": ["RESTful APIs", "Web Extensions"]
+    },
+    {
+      "name": "Paradigms",
+      "keywords": [
+        "DevSecOps",
+        "Agile",
+        "Scrum",
+        "Microservice Architecture",
+        "Lambda Architecture"
+      ]
+    },
+    {
+      "name": "Testing",
+      "keywords": [
+        "JUnit",
+        "Mockito",
+        "PyTest",
+        "Cypress",
+        "Cucumber",
+        "WireMock",
+        "Behaviour-driven development",
+        "Test-driven development"
+      ]
+    },
+    {
+      "name": "Cloud Providers",
+      "keywords": ["Amazon Web Services (AWS)", "Microsoft Azure", "Digital Ocean"]
+    },
+    {
+      "name": "CI/CD",
+      "keywords": [
+        "Jenkins",
+        "Azure DevOps",
+        "GitLab",
+        "GitHub Actions",
+        "Concourse"
+      ]
+    },
+    {
+      "name": "Containerization",
+      "keywords": ["Docker"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Machine Learning",
+      "keywords": ["MLOps", "AutoML"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Bionic Speed Reader Browser Extension",
+      "description": "A simple chrome extension using Bionic Reading (BR®) API.",
+      "url": "https://github.com/kwame-mintah/bionic-speed-reader-browser-extension"
+    }
+  ]
+}
+```
 
-#### Frameworks
-
-Serverless Framework, Spring, FastAPI
-
-#### Libraries/APIs
-
-AngularJS, Keycloak, NextJS, NodeJS, NumPy, Pandas, REST APIs, React, ReactJS
-
-#### Paradigms
-
-Agile Software Development, Behavior-driven development (BDD), Lambda Architecture, Microservices
-
-#### Platforms
-
-Amazon Web Services (AWS), Azure DevOps, DigitalOcean, Docker, GitLab, MacOS, Microsoft Azure, Ubuntu
-
-#### Tools
-
-Chrome Developer Tools, CircleCI, Cyberduck, DBeaver, Figma, FileZilla, GitHub Actions, IntelliJ IDEA, Jenkins, PyCharm, Robo 3T, Source Tree, Visual Studio Code
-
-#### Storage
-
-ElasticSearch, MongoDB, OpenSearch, PostgreSQL
-
-#### Other
-
-APIs, Chrome Extensions, Role Based Access Control (RBAC)
+</details>
 
 ---
 
