@@ -7,11 +7,10 @@
 ### 📖 What am I up to?
 
 - Getting more familiar with Terraform using [different registry providers](https://github.com/kwame-mintah?tab=repositories&q=&type=template&language=hcl&sort=) 😫
+- Creating quick start [GitHub templates](https://github.com/kwame-mintah?tab=repositories&q=&type=template&language=&sort=) for various things 📄
 - Gaining experience on Artificial Intelligence (AI) and Machine Learning (ML) ⚙️
-- Attempting to learn Go Lang 🍼
 - Learning Robotic Process Automation (RPA) tools 🦾
 - Reading about Intelligence Automation (IA) 🤖
-- Creating [GitHub templates](https://github.com/kwame-mintah?tab=repositories&q=&type=template&language=&sort=) for various projects 📄
 
 ---
 
