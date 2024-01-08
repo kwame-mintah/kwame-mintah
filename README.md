@@ -7,10 +7,10 @@
 ### 📖 What am I up to?
 
 - Getting more familiar with Terraform using [different registry providers](https://github.com/kwame-mintah?tab=repositories&q=&type=template&language=hcl&sort=) 😫
-- Creating quick start [GitHub templates](https://github.com/kwame-mintah?tab=repositories&q=&type=template&language=&sort=) for various things 📄
+- Creating [GitHub templates](https://github.com/kwame-mintah?tab=repositories&q=&type=template&language=&sort=) for various tech stacks 📄
 - Gaining experience on Artificial Intelligence (AI) and Machine Learning (ML) ⚙️
-- Learning Robotic Process Automation (RPA) tools 🦾
-- Reading about Intelligence Automation (IA) 🤖
+- Working towards create minimum viable products (MVP) of my [ideas](https://github.com/kwame-mintah/notes-md/tree/main/brainstorm-ideas) 💭
+- Contributing to various Open source [projects](https://github.com/pulls?q=is%3Apr+author%3Akwame-mintah+-user%3Akwame-mintah+is%3Apublic+is%3Amerged+) 💌
 
 ---
 
