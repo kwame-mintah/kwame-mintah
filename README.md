@@ -1,6 +1,6 @@
 ### 👋 About me
 
-- 🖥  I'm currently a Software Engineer @ [CGI](https://www.cgi.com/uk/en-gb).
+- 🖥 I'm currently a Senior Software Engineer @ [iProov](https://www.iproov.com/).
 
 ---
 
@@ -15,6 +15,7 @@
 ---
 
 ### 🗂️ Skills
+
 <details>
 
 <summary> ❗ Expand to view my skills in JSON format ❗</summary>
@@ -34,11 +35,18 @@
   },
   "work": [
     {
+      "name": "iProov",
+      "position": "Senior Software Engineer",
+      "url": "https://www.iproov.com/",
+      "startDate": "2024-07-01",
+      "endDate": "..."
+    },
+    {
       "name": "CGI",
       "position": "Software Engineer",
       "url": "https://www.cgi.com/en",
       "startDate": "2018-11-09",
-      "endDate": "..."
+      "endDate": "2024-06-28"
     }
   ],
   "certificates": [
@@ -135,7 +143,11 @@
     },
     {
       "name": "Cloud Providers",
-      "keywords": ["Amazon Web Services (AWS)", "Microsoft Azure", "Digital Ocean"]
+      "keywords": [
+        "Amazon Web Services (AWS)",
+        "Microsoft Azure",
+        "Digital Ocean"
+      ]
     },
     {
       "name": "CI/CD",
@@ -172,9 +184,7 @@
 
 ---
 
->
-> “I can't believe what you say, because I see what you do.” - *James Baldwin*
->
+> “I can't believe what you say, because I see what you do.” - James Baldwin
 
 <!---
 kwame-mintah/kwame-mintah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
