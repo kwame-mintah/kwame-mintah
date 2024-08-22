@@ -182,6 +182,10 @@
 
 </details>
 
+### 📥 Contact
+
+If you have any questions or want collaborate on a project, please open a discussion [here](https://github.com/kwame-mintah/kwame-mintah/discussions/categories/general).
+
 ---
 
 > “I can't believe what you say, because I see what you do.” - James Baldwin
