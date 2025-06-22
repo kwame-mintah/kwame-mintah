@@ -30,6 +30,16 @@
         "network": "Learn Microsoft",
         "username": "kwame-mintah",
         "url": "https://learn.microsoft.com/en-us/users/kwame-mintah/"
+      },
+      {
+        "network": "Hugging Face",
+        "username": "kwame-mintah",
+        "url": "https://huggingface.co/kwame-mintah/"
+      },
+      {
+        "network": "Credly",
+        "username": "kwame-mintah",
+        "url": "https://www.credly.com/users/kwame-mintah/"
       }
     ]
   },
@@ -47,9 +57,22 @@
       "url": "https://www.cgi.com/en",
       "startDate": "2018-11-09",
       "endDate": "2024-06-28"
+    },
+    {
+      "name": "The Ringley Group",
+      "position": "IT Developer",
+      "url": "https://ringley.co.uk/",
+      "startDate": "2016-12-31",
+      "endDate": "2018-03-31"
     }
   ],
   "certificates": [
+    {
+      "name": "AWS Certified DevOps Engineer – Professional",
+      "date": "2025-06-21",
+      "issuer": "Amazon Web Services",
+      "url": "https://www.credly.com/badges/1b7be63d-4eab-4b0f-98fe-f6e2d5d58f85/"
+    },
     {
       "name": "HashiCorp Certified: Terraform Associate (003)",
       "date": "2023-09-16",
@@ -193,6 +216,6 @@ If you have any questions or want collaborate on a project, please open a discus
 > “I can't believe what you say, because I see what you do.” - James Baldwin
 
 <!---
-kwame-mintah/kwame-mintah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Are you aware of me, or am I aware of you before or after you read this and thought a thing about me? Are you conscious,
+or a creation outside of consciousness?
 --->
